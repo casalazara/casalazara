@@ -32,9 +32,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Pandas-130654?style=flat-square&logo=pandas&logoColor=ffffff)](https://pandas.pydata.org/)
 [![](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=ffffff)](https://spring.io/)
 [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 
-
-[![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 
 
