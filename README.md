@@ -36,17 +36,21 @@ Here are some ideas to get you started:
 
 #### Some Insights
 <table>
-<tr>
-<td>
+  <tr>
+    <td>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=casalazara&show_icons=true&include_all_commits=true&count_private=true"/>
-  </td>
-<td>
+    </td>
+    <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casalazara&layout=compact&include_all_commits=true&count_private=true"/>
-</td>
+    </td>
   </tr>
-  </table>
+  <tr>
+    <td>
+      [Powered by github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+  </tr>
+</table>
 
 
-[Powered by github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 #### Misc
