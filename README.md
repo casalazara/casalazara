@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #### About me
 
-- 🌱 I’m currently learning about Data Science and Quantum Computing with [Qiskit](https://www.qiskit.org)
+- 🌱 I’m currently learning about Data Science & Quantum Computing with [Qiskit](https://www.qiskit.org)
 - 📫 How to reach me: [@AndresS65](https://t.me/AndresS65)
 - 😄 Pronouns: Salacho
 - 🎮 A chess lover, you can find me on [Lichess](https://lichess.org/@/carlossala).
