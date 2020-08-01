@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 🎮 A chess lover, you can find me on [Lichess](https://lichess.org/@/carlossala).
 
 #### Technologies & Tools
-##### IDE
 [![](https://img.shields.io/badge/IDE-Eclipse-purple?style=flat-square&logo=Eclipse)](https://www.eclipse.org/)
 [![](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=PyCharm)](https://www.jetbrains.com/es-es/pycharm/)
 [![](https://img.shields.io/badge/IDE-Spyder-red?style=flat-square&logo=Spyder)](https://www.spyder-ide.org/)
@@ -30,11 +29,13 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=ffffff)](https://angular.io/)
 [![](https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=django&logoColor=ffffff)](https://www.djangoproject.com/)
-
-
 [![](https://img.shields.io/badge/-Pandas-130654?style=flat-square&logo=pandas&logoColor=ffffff)](https://pandas.pydata.org/)
 
 
+[![](https://img.shields.io/badge/-Matplotlib-00ADD8?style=flat-square&logo=matplotlib&logoColor=ffffff)](https://golang.org/)
+
+
+[![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 
 
