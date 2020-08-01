@@ -44,13 +44,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casalazara&layout=compact&include_all_commits=true&count_private=true"/>
     </td>
   </tr>
-  <tr>
-    <td width="100%">
-      [Powered by github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-  </tr>
 </table>
-
-
+[Powered by github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 #### Misc
