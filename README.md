@@ -22,10 +22,16 @@ Here are some ideas to get you started:
 - 🎮 A chess lover, you can find me on [Lichess](https://lichess.org/@/carlossala).
 
 #### Technologies & Tools
+##### IDE
 [![](https://img.shields.io/badge/IDE-Eclipse-purple?style=flat-square&logo=Eclipse)](https://www.eclipse.org/)
 [![](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=PyCharm)](https://www.jetbrains.com/es-es/pycharm/)
 [![](https://img.shields.io/badge/IDE-Spyder-red?style=flat-square&logo=Spyder)](https://www.spyder-ide.org/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
+
+[![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-Django-00ADD8?style=flat-square&logo=django&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 
 
 
