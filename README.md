@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
-[![](https://img.shields.io/badge/-Django-00ADD8?style=flat-square&logo=django&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 
