@@ -25,9 +25,14 @@ Here are some ideas to get you started:
 
 
 #### Some Insights
+<table>
+<tr>
+<td valign="top" width="50%">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=casalazara&show_icons=true&include_all_commits=true&count_private=true&card_width=25"/>
+  </td>
+<td valign="top" width="50%">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casalazara&layout=compact&include_all_commits=true&count_private=true"/>
-
+  </td>
 
 xd
 
