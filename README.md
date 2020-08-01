@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![casalazara's github stats](https://github-readme-stats.vercel.app/api?username=casalazara&count_private=true&include_all_commits=true)
-[![casalazara's github stats](https://github-readme-stats.vercel.app/api?username=casalazara)](https://github.com/casalazara/github-readme-stats)
-![casalazara's github stats](https://github-readme-stats.vercel.app/api?username=casalazara&show_icons=true)
-![casalazara's github stats](https://github-readme-stats.vercel.app/api?username=casalazara&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casalazara&include_all_commits=true&count_private=true)](https://github.com/casalazara/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casalazara&layout=compact)](https://github.com/casalazara/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casalazara&count_private=true&include_all_commits=true)](https://github.com/casalazara/github-readme-stats)
