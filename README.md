@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 #### Some Insights
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=casalazara&show_icons=true&include_all_commits=true&count_private=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casalazara&layout=compact&include_all_commits=true&count_private=true"/>
-[![Powered by github-readme-stats](https://github.com/anuraghazra/github-readme-stats)]
+[Powered by github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 #### Misc
