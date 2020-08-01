@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=django&logoColor=ffffff)](https://www.djangoproject.com/)
 
 
-[![](https://img.shields.io/badge/-Pandas-00ADD8?style=flat-square&logo=pandas&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-Pandas-130654?style=flat-square&logo=pandas&logoColor=ffffff)](https://pandas.pydata.org/)
+
+
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 
 
