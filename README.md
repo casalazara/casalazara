@@ -45,6 +45,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
- [Powered by github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+[Powered by github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 #### Misc
