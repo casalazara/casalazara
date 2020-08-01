@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="100%">
       [Powered by github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
     </td>
   </tr>
