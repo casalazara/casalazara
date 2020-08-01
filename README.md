@@ -22,12 +22,9 @@ Here are some ideas to get you started:
 - 🎮 A chess lover, you can find me on [Lichess](https://lichess.org/@/carlossala).
 
 #### Technologies & Tools
-
+[![](https://img.shields.io/badge/IDE-Eclipse-blue?style=flat-square&logo=Eclipse)](https://code.visualstudio.com/)
 
 #### Some Insights
-
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=casalazara&show_icons=true&include_all_commits=true&count_private=true"/>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casalazara&layout=compact&include_all_commits=true&count_private=true"/>
 
