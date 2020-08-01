@@ -22,8 +22,12 @@ Here are some ideas to get you started:
 - 🎮 A chess lover, you can find me on [Lichess](https://lichess.org/@/carlossala).
 
 #### Technologies & Tools
-[![](https://img.shields.io/badge/IDE-Eclipse-purple?style=flat-square&logo=Eclipse)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=PyCharm)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Eclipse-purple?style=flat-square&logo=Eclipse)](https://www.eclipse.org/)
+[![](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=PyCharm)](https://www.jetbrains.com/es-es/pycharm/)
+[![](https://img.shields.io/badge/IDE-Spyder-red?style=flat-square&logo=Spyder)](https://www.spyder-ide.org/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
+
+
 
 #### Some Insights
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=casalazara&show_icons=true&include_all_commits=true&count_private=true"/>
