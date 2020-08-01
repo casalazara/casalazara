@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### About me
+
+- 🌱 I’m currently learning about Data Science and Quantum Computing
+- 📫 How to reach me: [@AndresS65](https://t.me/AndresS65)
+- 😄 Pronouns: Salacho
+- 🎮 A chess lover, you can find me on [Lichess](https://lichess.org/@/carlossala).
+
+#### Technologies & Tools
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=casalazara&show_icons=true&include_all_commits=true&count_private=true" />
