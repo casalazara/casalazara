@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casalazara&count_private=true&include_all_commits=true)](https://github.com/casalazara/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=casalazara&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=casalazara&show_icons=true&line_height=45&theme=dracula&include_all_commits=true&count_private=true" />
