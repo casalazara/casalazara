@@ -26,21 +26,8 @@ Here are some ideas to get you started:
 
 #### Some Insights
 
-<div class="row">
-  <div class="col">
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=casalazara&show_icons=true&include_all_commits=true&count_private=true"/>
-  </div>
-  <div class="col">
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casalazara&layout=compact&include_all_commits=true&count_private=true"/>
-  </div>
-</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
-</a>    
