@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=ffffff)](https://angular.io/)
 [![](https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![](https://img.shields.io/badge/-Pandas-130654?style=flat-square&logo=pandas&logoColor=ffffff)](https://pandas.pydata.org/)
-
-
-[![](https://img.shields.io/badge/-Spring-00ADD8?style=flat-square&logo=spring&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=ffffff)](https://spring.io/)
 
 
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
