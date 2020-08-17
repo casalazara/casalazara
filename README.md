@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+& Quantum Computing with [Qiskit](https://www.qiskit.org)
 -->
 #### About me
 
-- 🌱 I’m currently learning about Data Science & Quantum Computing with [Qiskit](https://www.qiskit.org)
+- 🌱 I’m currently learning about Data Science 
 - 📫 How to reach me: [@AndresS65](https://t.me/AndresS65)
 - 🎮 A chess lover, you can find me on [Lichess](https://lichess.org/@/carlossala).
 
