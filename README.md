@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 [![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=ffffff)](https://www.tensorflow.org/)
-[![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)](https://www.tensorflow.org/)
+[![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
 
 #### Some Insights
 <table>
