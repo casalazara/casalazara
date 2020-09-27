@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=casalazara&show_icons=true&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casalazara&layout=compact&hiade=jupyter%20notebook,TSQL,HTML,CSS"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casalazara&layout=compact&hide=jupyter%20notebook,TSQL,HTML,CSS"/>
     </td>
   </tr>
 </table>
