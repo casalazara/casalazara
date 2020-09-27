@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 & Quantum Computing with [Qiskit](https://www.qiskit.org)
+[![](https://img.shields.io/badge/-sklearn-F7931E?style=flat-square&logo=sklearn&logoColor=ffffff)](https://scikit-learn.org/stable/)
+
 -->
 #### About me
 
@@ -34,9 +36,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 [![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=ffffff)](https://www.tensorflow.org/)
-[![](https://img.shields.io/badge/-NumPy-FF6F00?style=flat-square&logo=NumPy&logoColor=ffffff)](https://numpy.org/)
-
-[![](https://img.shields.io/badge/-sklearn-F7931E?style=flat-square&logo=sklearn&logoColor=ffffff)](https://scikit-learn.org/stable/)
+[![](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=ffffff)](https://numpy.org/)
 
 #### Some Insights
 <table>
