@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 & Quantum Computing with [Qiskit](https://www.qiskit.org)
-[![](https://img.shields.io/badge/-sklearn-F7931E?style=flat-square&logo=sklearn&logoColor=ffffff)](https://scikit-learn.org/stable/)
-[![](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=ffffff)](https://numpy.org/)
 
 -->
 #### About me
@@ -35,10 +33,11 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)](https://spring.io/)
 [![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
+[![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 [![](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff)](https://pandas.pydata.org/)
 [![](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=ffffff)](https://numpy.org/)
-[![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/-sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff)](https://scikit-learn.org/stable/)
 [![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=ffffff)](https://www.tensorflow.org/)
 
