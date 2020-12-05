@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Data Science 
 - 📫 How to reach me: [@AndresS65](https://t.me/AndresS65)
 - 🎮 A chess lover, you can find me on [Lichess](https://lichess.org/@/carlossala).
+- 🎺 A trumpet and trombone player.
 
 #### Technologies & Tools
 [![](https://img.shields.io/badge/IDE-Eclipse-purple?style=flat-square&logo=Eclipse)](https://www.eclipse.org/)
