@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-& Quantum Computing with [Qiskit](https://www.qiskit.org)
 
 -->
 #### About me
@@ -32,7 +31,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff)](https://angular.io/)
 [![](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)](https://spring.io/)
 [![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
